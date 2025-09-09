@@ -1,0 +1,14 @@
+D:\AbstractFactory\DPM225491_Le Nhat Tri_MyReal01_AbstractFactory\bin\Debug\net8.0\DPM225491_Le Nhat Tri_MyReal01_AbstractFactory.exe
+D:\AbstractFactory\DPM225491_Le Nhat Tri_MyReal01_AbstractFactory\bin\Debug\net8.0\DPM225491_Le Nhat Tri_MyReal01_AbstractFactory.deps.json
+D:\AbstractFactory\DPM225491_Le Nhat Tri_MyReal01_AbstractFactory\bin\Debug\net8.0\DPM225491_Le Nhat Tri_MyReal01_AbstractFactory.runtimeconfig.json
+D:\AbstractFactory\DPM225491_Le Nhat Tri_MyReal01_AbstractFactory\bin\Debug\net8.0\DPM225491_Le Nhat Tri_MyReal01_AbstractFactory.dll
+D:\AbstractFactory\DPM225491_Le Nhat Tri_MyReal01_AbstractFactory\bin\Debug\net8.0\DPM225491_Le Nhat Tri_MyReal01_AbstractFactory.pdb
+D:\AbstractFactory\DPM225491_Le Nhat Tri_MyReal01_AbstractFactory\obj\Debug\net8.0\DPM225491_Le Nhat Tri_MyReal01_AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\AbstractFactory\DPM225491_Le Nhat Tri_MyReal01_AbstractFactory\obj\Debug\net8.0\DPM225491_Le Nhat Tri_MyReal01_AbstractFactory.AssemblyInfoInputs.cache
+D:\AbstractFactory\DPM225491_Le Nhat Tri_MyReal01_AbstractFactory\obj\Debug\net8.0\DPM225491_Le Nhat Tri_MyReal01_AbstractFactory.AssemblyInfo.cs
+D:\AbstractFactory\DPM225491_Le Nhat Tri_MyReal01_AbstractFactory\obj\Debug\net8.0\DPM225491_Le Nhat Tri_MyReal01_AbstractFactory.csproj.CoreCompileInputs.cache
+D:\AbstractFactory\DPM225491_Le Nhat Tri_MyReal01_AbstractFactory\obj\Debug\net8.0\DPM225491_Le Nhat Tri_MyReal01_AbstractFactory.dll
+D:\AbstractFactory\DPM225491_Le Nhat Tri_MyReal01_AbstractFactory\obj\Debug\net8.0\refint\DPM225491_Le Nhat Tri_MyReal01_AbstractFactory.dll
+D:\AbstractFactory\DPM225491_Le Nhat Tri_MyReal01_AbstractFactory\obj\Debug\net8.0\DPM225491_Le Nhat Tri_MyReal01_AbstractFactory.pdb
+D:\AbstractFactory\DPM225491_Le Nhat Tri_MyReal01_AbstractFactory\obj\Debug\net8.0\DPM225491_Le Nhat Tri_MyReal01_AbstractFactory.genruntimeconfig.cache
+D:\AbstractFactory\DPM225491_Le Nhat Tri_MyReal01_AbstractFactory\obj\Debug\net8.0\ref\DPM225491_Le Nhat Tri_MyReal01_AbstractFactory.dll
